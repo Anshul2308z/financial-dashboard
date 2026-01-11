@@ -1,3 +1,5 @@
 ## Next.js App Router Course
-Financial dashboard is a project from next,js interactive next course available on https://nextjs.org/learn/dashboard-app
+This project is part of Next.js course by vercel/them.
+Starter repo as well can be found there: 
+https://nextjs.org/learn/dashboard-app
 
